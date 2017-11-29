@@ -1,9 +1,3 @@
-/**
- * Rachel Kelley
- * E01460335
- * COSC 314 - Computational Discrete Structures
- * Programming Assignment #1: Lists all the subsets of the set {0,1,2,3,...,n}
- */
 import java.util.*;
 
 public class Driver {
